@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "aff01d1bcc25db96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38ec814402095d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a1ec47d210ebed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Die Menschliche Zelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca1a172a848f5825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitionen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0858a182f4e776f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aadcc5de4f76c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb6b538b51894e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3326bccd1d8460f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbb3cc684e0ce549",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e5b5c44dfde4319",
+    "type": "split",
+    "children": [
+      {
+        "id": "056a100bc1156697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a12d974ccb90651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Die Menschliche Zelle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b19bb026cf1b47a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Die Menschliche Zelle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3871ad730e332ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33a4626bcd319064",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Die Menschliche Zelle.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a5a1ec47d210ebed",
+  "lastOpenFiles": [
+    "img/Mirkotubulusjpg.jpg",
+    "img/Mirkotubulusjpg.jpg.crdownload",
+    "img/Gap_Junction.jpg.~tmp",
+    "img/Gap_Junction.jpg",
+    "img/Gap_Junction.jpg.crdownload",
+    "img/Macular_adhaerens.png",
+    "Macular_adhaerens.png",
+    "Pasted image 20240823134834.png",
+    "img/Zonula_adhaerens.png",
+    "Zonula_adhaerens.png",
+    "Pasted image 20240823134436.png",
+    "img/Zonula_occludens.jpg",
+    "img/Zonula_occludens.jpg.crdownload",
+    "Definitionen.md",
+    "Die Menschliche Zelle.md",
+    "img/Stofftransport.jpg",
+    "img/Stofftransport.jpg.crdownload",
+    "img/Lipiddoppelschicht.jpg",
+    "img/Lipiddoppelschicht.jpg.crdownload",
+    "img",
+    "Neuer Ordner"
+  ]
+}
