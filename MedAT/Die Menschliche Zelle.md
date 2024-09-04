@@ -127,10 +127,11 @@ brauchen Zellen um sich zu verbinden und für die Kommunikation
 	- Zell-Zell Kontakt 
 	- lockerer als Tight Junction
 	- Haftet durch Cadherine-Protein 
+	- sorgt für mechanische Stabilität
 
-**Macula adhaerens** ![[Macular_adhaerens.png|right|300]]
+**Macula adhaerens (Desmosom)** ![[Macular_adhaerens.png|right|300]]
 	- Zell-Zell Kontakt
-	- Punktförmige Struktur 
+	- **Punktförmige Struktur **
 
 **Hemidesmosom** 
 	- **Zell-Matrix Kontakt**
@@ -178,3 +179,164 @@ brauchen Zellen um sich zu verbinden und für die Kommunikation
 - durch Verbrauch von ATP 
 	- **Kinesin** -> Vesikel von **Plus zu Minus** Ende 
 	- **Dynein** -> Vesikel von **Minus zu Plus** Ende 
+
+
+
+
+**Intermediärfilamente**
+- **Stützfunktion**
+- z.B. Keratine (bei Epithelzellen) verbinden [[Die Menschliche Zelle#Zellkontakte#Haftkontakte|Desmosom]]    
+- Bestehen aus:
+	-> 2x polaren Monomeren = Dimere
+	-> 2x Dimere = Tetramere 
+	-> Tetramere aggregieren zu Protofilamente 
+	-> 8x Protofilamente = Intermediärfilamente
+
+**Mikrofilamente/Aktinfilamente**
+- **viel kleiner** als Intermediärfilamente 
+- dient zur **Stabilisierung** oder bilden **Strikturen** (**Mikrovilli**)
+- Bestehen aus:
+	-> mehrere (kugelförmige) **G-Aktine** zu **Kette** = **F-Aktin**
+	-> 2x F-Aktine (Doppelhelix) = Aktinfilament 
+
+
+### Zellorganellen
+
+##### Zellkern
+- Aufbau
+	- **Karyoplasma** (gleich wie Zytoplasma nur im Zellkern)
+	- **Nukleolus** = Zellkern
+		- hier **entstehen Ribosome**
+		- **DNA-Replikation & Transkription**
+	- **äußere Kernmembran** direkt **verbunden** mit **ER** (endoplasmatisches Retikulum)
+	- **Kernporen** regeln Stofftransport
+	- auf innere Kernmembran liegt **Kernlamina** (Intermediärfilamente)-> **Stabilität**
+- Im Karyoplasma ist DNA -> **Chromatin = Chromosome + Proteine** (Großteil Histone)
+- **Heterochromatin**/inaktive DNA -> verdichtet und wird **nicht transkribiert**   
+- **Euchromatin**/aktive DNA -> locker, **ermöglicht binden** an **Transkriptionsfaktoren** 
+
+##### Endoplasmatisches Retikulum
+Retikulum lat. _Netz_ = viele Kanäle in Zelle
+
+**Glattes ER**
+- **Phospholipide, Cholesterin** und **Steroidhormone** für Membrane hergestellt
+- **Membranflusssystem** bringt Vesikel mit Membran-Teilchen zu
+  Golgi-Apparat, Lysosomen und Zellmembran      
+- beteiligt an der **Gluconeogenese** 
+- Fern beteiligt an der **Entgiftung** (macht Giftstoffe wasserlöslich)
+
+**Raues ER**
+- rau weil **Ribosome an Membran**
+- **Proteinbiosynthese** -> Translation von mRNA -> Protein
+- **posttranslationale Modifikationen** -> modifiziert Moleküle und schickt sie zum Golgi-Apparat 
+
+##### Golgi-Apparat 
+- **Cis**-Golgi-Netzwerk -> dem **ER zugewandt**
+- **Trans**-Golgi-Netzwerk -> dem **ER abgewandt**
+
+- Cis empfängt Vesikel des ERs
+- Inhalt von **Vesikel zu Vesikel** **transportiert** und **modifiziert**  
+- Trans werden Vesikel abgeschnürt 
+
+##### Mitochondrien 
+- **Kraftwerk** der Zelle -> stellt **ATP** her
+- haben **eigene DNA**
+- **vermehren** sich **unabhängig** des Zellzykluses 
+
+
+##### Lysosomen 
+- **entsteht** durch Vesikel vom **Golgi-Apparat**
+- **bauen zelleigene** und **zellfremde Stoffe ab** (Alkohol, Nikotin / Teile der Organellen)
+  -> verbrauchen kein ATP
+- enthalten Verdauungsenzyme
+- funktionieren im **sauren Milieu**
+
+##### Peroxisome
+- **entstehen** abschnüren vom **rauen ER**
+- **Entgiften** die Zelle 
+- bauen lange Fettsäuren ab 
+- haben Membranschicht als Schutz
+
+##### Proteasom 
+- behandelt kurzlebige , fehlgefaltete und dysfunktionale Proteine   
+- **benötigt ATP**
+- tunnelartige Struktur 
+- Ablauf:
+	1. Zielprotein wird mit **Ubiquitin** **markiert** (verbraucht ATP)
+	2. Deckel oben am "Tunnel" wird aufgemacht
+	3. um **rein zukommen** muss **Protein mit ATP entfaltet** werden (Ubiquitin wieder abgetrennt)
+	4. im inneren sind **Proteasen** (Enzyme die Proteine zerlegen) "zerhäckseln das Protein"
+	5. am ende -> kleine Fragmente (Oligopeptide) ins Zytoplasma 
+  *(letzter Abschnitt ausgelassen)*
+
+### Zellzyklus
+besteht aus 2 Teilen **Interphase** und der **Zellteilung**
+##### Interphase
+
+**G$_1$ (Wachstumsphase)**
+- bereitet Zelle auf S-Phase vor
+- **2x23 Chromosome** -> **Chromosom** = **1 Chromatid** 
+
+***G$_1$-Kontrollpunkt***: Schänden bei DNA? Genug Nährstoffe?
+
+**S-Phase (Synthesephase)**
+- **Replikation (DNA-Verdopplung)**
+- **Chromosom** = **2 Chromatid** 
+
+**G$_1$** 
+- Kontrolle der verdoppelten DNA
+
+***G$_2$-Kontrollpunkt***: gesamte DNA verdoppelt? DNA-Schäden? Ist die Umgebung günstig?
+
+**G$_0$**
+- Zelle im "Ruhestand" -> keine Zellteilung mehr 
+### Mitose 
+
+![[Mitose.jpg]]
+
+**Prophase**
+- verdoppelten **Zentrosome** (= 2 Zentriolen) gehen zu den Polen ![[Chromatid.png|right]]
+  --> bilden Spindelapparat  
+- **DNA kondensiert** (verdichtet sich) 
+- Chromatidpaar wird am **Zentromer** zusammengehalten 
+- Nukleolus und Kernhülle lösen sich auf
+
+**Prometaphase**
+- Zentromer bilden **Kinetochore** 
+  --> heften sich an Zentromeren an
+
+**Metaphase**
+- Chromosome werden in der Mitte (**Äquatorialebene**) platziert 
+  --> mit Spindelfasern fixiert 
+
+**Anaphase** 
+Chromatide werden getrennt und an die Pole gezogen 
+
+**Telophase** 
+- Kernhüllen werden aufgebaut
+- Chromosomen dekondensieren
+
+**Zytokinese** 
+- gleichzeitig mit Telophase 
+- **Organellen** werden auf **Tochterzellen verteilt**
+
+
+### Zelltod
+
+##### Apoptose (programmierter Zelltod)
+- **extrinsische Einleitung** --> Stress-Botenstoffe docken an Zellmembran an 
+- **intrinsische Einleitung** --> DNA-Schäden, oxidativen Stress, fehlgefaltete Proteine, ...
+  
+- **beseitigt kranke** oder **beschädigte Zellen** 
+- auch **wichtig** in der **Entwicklung** als **Embryo**
+- Zelle löst sich durch **Caspase-Proteine** von innen auf
+	- Zellinnere verdichtet sich 
+	- Zytoskelett kollabiert
+	- Kernhülle wird aufgelöst 
+	- Erbgut zerschnitten
+- Zellreste von Makrophagen beseitigt 
+
+##### Nekrose
+Zellen sterben durch z.B. Verletzungen 
+- Zelle **schwillt an** und **platzt** 
+- Tote Zelle **verteilt** sich auf den **Nebenzellen** -> kann **Entzünden** 
